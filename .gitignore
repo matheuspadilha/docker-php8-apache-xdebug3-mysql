@@ -1,0 +1,8 @@
+# JetBrains Project files
+.idea
+*.iml
+out
+gen
+
+# ENV file
+.env
