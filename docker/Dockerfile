@@ -1,7 +1,10 @@
 FROM php:8.0.10-apache
 
+# Enabled rewrite apache
+RUN a2enmod rewrite;
+
 # Install PHP extensions
-RUN docker-php-ext-install pdo_mysql
+RUN docker-php-ext-install mysqli pdo_mysql
 
 # Install XDEBUG version latest
 RUN pecl install xdebug
