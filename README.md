@@ -17,7 +17,7 @@
 **Pasta raiz do projeto** `src` "Adicione dentro desta pasta os arquivos `.php`"  
 **_Observação_**: Nesta pasta contém um arquivo `index.php`, ao subir o container é feita uma verificação do acesso ao banco de dados MySql.  
 
-Instalando extensões no php, no arquivo Dockerfile (`docker/Dockerfile`), no comando `RUN docker-php-ext-install pdo_mysql` é possivel adicionar novas extensões exemplo: `RUN docker-php-ext-install pdo_mysql json`  
+Instalando extensões no php, no arquivo Dockerfile (`docker/Dockerfile`), no comando `RUN docker-php-ext-install mysqli pdo_mysql` é possivel adicionar novas extensões exemplo: `RUN docker-php-ext-install pdo_mysql json`  
 **_Observação_**: Algumas extensões precisam de uma configuração, atente-se.
 
 **php.ini** no arquivo php-additional.ini (`docker/php/php-additional.ini`), é possivel adicionar ou remover configurações referentes ao php e ao xdebug.
