@@ -9,9 +9,9 @@
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ## Requisitos
-✅ Docker  
-✅ docker-compose  
-✅ Idea preferêncialmente PhpStorm  
+✔️ Docker  
+✔️ docker-compose  
+✔️ Idea preferêncialmente PhpStorm  
 
 ### Informações importantes
 **Pasta raiz do projeto** `src` "Adicione dentro desta pasta os arquivos `.php`"  
