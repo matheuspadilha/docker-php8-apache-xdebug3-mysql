@@ -20,7 +20,7 @@ services:
       - app-network
 
   db:
-    image: mysql:5.7
+    image: mysql:8.0
     container_name: mysql-db
     ports:
       - "3306:3306"
