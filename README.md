@@ -41,5 +41,5 @@ Se der tudo certo aparecerá a seguinte mensagem:
 `Current PHP version: 8.0.10`  
 `Database connected successfully!`
 
-### Passo 4
+### Stop da Aplicação
 Parando os containers, no terminal execute o seguinte comando: `docker-compose stop`
