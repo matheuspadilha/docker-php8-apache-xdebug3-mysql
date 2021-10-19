@@ -2,6 +2,8 @@
 
 #### Em breve debugger com visual studio code.
 
+---
+
 # Ambiente docker para desenvolvimento com PHP 8 apache, Xdebug e MySql
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
