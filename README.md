@@ -1,6 +1,6 @@
 # 🚧 ...under construction! 👷‍♂️
 
-#### Em breve debugger com visual studio code.
+#### Em breve debugger com visual studio code e novo repositorio com php7 e xdebug version 2 
 
 ---
 
