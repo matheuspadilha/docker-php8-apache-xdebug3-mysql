@@ -1,7 +1,5 @@
 # 🚧 ...under construction! 👷‍♂️
 
-#### Em breve debugger com visual studio code e novo repositorio com php7 e xdebug version 2 
-
 ---
 
 # Ambiente docker para desenvolvimento com PHP 8 apache, Xdebug e MySql
