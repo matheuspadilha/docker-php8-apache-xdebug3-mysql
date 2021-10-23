@@ -2,7 +2,7 @@
 
 ---
 
-# Ambiente docker para desenvolvimento com PHP 8 apache, Xdebug e MySql
+# Ambiente docker para desenvolvimento com PHP 8 apache, Xdebug 3 e MySql 8
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
