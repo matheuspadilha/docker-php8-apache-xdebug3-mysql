@@ -4,5 +4,8 @@
 out
 gen
 
+# [TEMP] Ignore file debug in vscode
+.vscode
+
 # ENV file
 .env
