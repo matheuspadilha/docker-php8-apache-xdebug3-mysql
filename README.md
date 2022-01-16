@@ -1,7 +1,3 @@
-# 🚧 ...under construction! 👷‍♂️
-
----
-
 # Ambiente docker para desenvolvimento com PHP 8 apache, Xdebug 3 e MySql 8
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
