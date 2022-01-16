@@ -9,7 +9,7 @@
 ## Requisitos
 ✔️ Docker  
 ✔️ docker-compose  
-✔️ Idea preferêncialmente PhpStorm  
+✔️ Idea utilizada PhpStorm  
 
 ### Informações importantes
 **Pasta raiz do projeto** `src` "Adicione dentro desta pasta os arquivos `.php`"  
