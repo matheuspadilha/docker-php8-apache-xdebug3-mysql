@@ -39,5 +39,8 @@ Se der tudo certo aparecerá a seguinte mensagem:
 `Current PHP version: 8.0.10`  
 `Database connected successfully!`
 
+### Observação:
+Para acessar o banco pelo Php my admin o host para acessar o banco é `db`
+
 ### Stop da Aplicação
 Parando os containers, no terminal execute o seguinte comando: `docker-compose stop`
