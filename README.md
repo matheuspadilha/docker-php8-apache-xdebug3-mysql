@@ -40,7 +40,7 @@ Se der tudo certo aparecerá a seguinte mensagem:
 `Database connected successfully!`
 
 ### Observação:
-Para acessar o banco pelo Php my admin o host para acessar o banco é `db`
+Para acessar o banco pelo PhpMyAdmin o host é `db`
 
 ### Stop da Aplicação
 Parando os containers, no terminal execute o seguinte comando: `docker-compose stop`
